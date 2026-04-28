@@ -1,6 +1,6 @@
 {
-  "name": "ngx-attack-detector-workspace",
-  "version": "0.0.0",
+  "name": "@md-mehbub-ul-islam/ngx-attack-detector",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
